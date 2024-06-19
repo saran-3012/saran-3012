@@ -2,7 +2,7 @@
 
 <img align="right" height="350" width="350" src="https://raw.githubusercontent.com/saran-3012/automatic-svg-spinner/main/spinner-color.svg" alt="Spinner">
 
-<br />
+#### Aspiring Software Developer
 
 - ✍️ I am pursuing B.E. ECE
 
